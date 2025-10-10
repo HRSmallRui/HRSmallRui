@@ -1,16 +1,36 @@
-## Hi there 👋
+# 个人简介
+你好，这里是HR_Small_Rui，一个不务正业沉迷游戏开发的大三学生，一个还在学习怎么飞翔的菜鸡。虽然目前的水平还非常菜，但会努力朝着我的理想和大佬的方向去努力前进。
 
-<!--
-**HRSmallRui/HRSmallRui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+当然目前也是初入github，希望以后能成为代码界的大佬吧……
 
-Here are some ideas to get you started:
+**目前这个readme还没写完，等日后继续完善**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 技能
+学过godot，unity和ue三款游戏引擎，不过目前使用最熟练的是godot，unity已经不再继续学习，而且目前主要搞2D游戏，日后有godot3D游戏开发和UE3D游戏开发的计划。
+
+编程语言方面会Python，C++，C#，GDS（godot的脚本语言），会的还很少，目前使用godot开发的游戏主要以GDS为主，日后也会开始尝试C#与GDS混合使用来开发游戏。
+
+
+## 个人项目
+### MinecraftRush
+用godot制作过一个游戏：MinecraftRush，这是一个我基于godot使用GDS进行开发的KR同人塔防游戏，目前仍在开发中，在B站有发布0.2.4版的宣传片：[MinecraftRush 0.2.4宣传片](https://www.bilibili.com/video/BV1aXvAzTEKY/?spm_id_from=333.1387.upload.video_card.click "记得给个三连关注谢谢qwq")
+
+这也是我目前主要在进行开发的游戏，等以后主线完结会把所有代码开源，为KR的社区做一些贡献，以下是我在B站置顶动态对这个项目的原话：
+
+>这个游戏等我更完主线会开源，所有的源代码和素材都会公开，到时候你们拿去改改版或者当模板做KR同人啥的都可以，只要别用作商业用途，署不署我的名我都不在意，以及最后可能还会做些视频教程来说明一下代码结构和我的写代码的思路（因为史山原因以及我自己并不是很强，所以仅供参考），以方便你们更好地使用工程文件（？）
+>我还是很希望以后能看到KR能像pvz那样百花齐放的样子，以及看很多人经常分享自己的自创我也时常在想如果能做成游戏玩该多好，既然没人做，那我就先做
+
+[置顶动态链接](https://www.bilibili.com/opus/1082758291823526025?spm_id_from=333.1387.0.0)
+
+目前这个游戏的进度还处于DEMO版阶段，等日后我会努力把这个做完
+
+### GalaxyWar
+学了godot一周之后花三个晚上熬夜做的第一个小demo，当时还是比较兴奋的，毕竟第一次感受到开发游戏的乐趣(´ ∀ ` *)，目前这个项目并没有发布，不过我会把它的源代码上传到github上作为一个纪念意义，这个项目目前还躺在我的GodotProjects本地文件夹里呢hhh，但是日后不会对这个项目进行维护了，一来毕竟是第一次学godot的时候做的第一个游戏，二来我想把不完美的它留在这里
+
+游戏的灵感来源是来自诺基亚手机的一个上古老游戏：机械暴乱，玩法主要是类似于飞机大战那样的弹幕射击游戏（其实主要还是躲子弹）
+
+这是视频链接，虽然没啥人看但当时我还是很兴奋的：[我的第一个游戏演示视频](https://www.bilibili.com/video/BV1pz42187Cp/?spm_id_from=333.1387.upload.video_card.click&vd_source=c449e037b4c487a04a4ac5cc6a096893)
+
+### RecordOfDeath
+灵感来源于一个叫死亡启示录的MC地图，这是我学UE的时候做的一个DEMO，不过当时因为编辑器出问题崩了导致整个项目都损毁了，说来也是比较遗憾qwq，主要玩法是在一个满是僵尸的沦陷城市内坚持生存5天直到获救，其中涉及食物寻找，枪支弹药武器的搜寻与和僵尸的正面对抗
