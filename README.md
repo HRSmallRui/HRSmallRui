@@ -15,7 +15,7 @@
 
 
 ## 个人项目
-### MinecraftRush
+### <font color = Green>MinecraftRush</font>
 用godot制作过一个游戏：MinecraftRush，这是一个我基于godot使用GDS进行开发的KR同人塔防游戏，目前仍在开发中，在B站有发布0.2.4版的宣传片：[MinecraftRush 0.2.4宣传片](https://www.bilibili.com/video/BV1aXvAzTEKY/?spm_id_from=333.1387.upload.video_card.click "记得给个三连关注谢谢qwq")
 
 这也是我目前主要在进行开发的游戏，等以后主线完结会把所有代码开源，为KR的社区做一些贡献，以下是我在B站置顶动态对这个项目的原话：
