@@ -13,20 +13,27 @@
 
 编程语言方面会Python，C++，C#，GDS（godot的脚本语言），会的还很少，目前使用godot开发的游戏主要以GDS为主，日后也会开始尝试C#与GDS混合使用来开发游戏。
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HRSmallRui&layout=compact)
+ 
+ 
 
 ## 个人项目
 ### <font color = Green>MinecraftRush</font>
-用godot制作过一个游戏：MinecraftRush，这是一个我基于godot使用GDS进行开发的KR同人塔防游戏，目前仍在开发中，在B站有发布0.2.4版的宣传片：[MinecraftRush 0.2.4宣传片](https://www.bilibili.com/video/BV1aXvAzTEKY/?spm_id_from=333.1387.upload.video_card.click "记得给个三连关注谢谢qwq")
+用godot制作过一个游戏：MinecraftRush，这是一个我基于godot使用GDS进行开发的KR同人塔防游戏，目前仍在开发中（已经发布正式版），在B站有发布1.0版本的宣传片：[MinecraftRush 1.0 宣传片](https://www.bilibili.com/video/BV1QCoZBtEUi/?spm_id_from=333.1387.0.0 "记得给个三连关注谢谢qwq")
 
-这也是我目前主要在进行开发的游戏，等以后主线完结会把所有代码开源，为KR的社区做一些贡献，以下是我在B站置顶动态对这个项目的原话：
+这也是我目前主要在进行开发的游戏，主线已经开发完毕，我也如约发布了这个游戏的开源工程项目（虽然没多少人看就是了……）[MinecraftRush开源工程](https://github.com/HRSmallRui/MinecraftRush)
+
+另外一提，目前也同时上传了一个远古版本的项目仓库，这个是一个最开始创建于2024年9月的一个项目（现在这个游戏的项目是一个重置版，创建于2025年2月），因为第一次制作经验不足，第一关开发完之后已经严重耦合，所以最后放弃了，选择了从零开始重制项目。当然第一个工程毕竟也有纪念意义，我同样上传了工程项目，不过从25年1月之后我就再也没有维护过这个项目了，同时因为当时godot才学了半个月所以整体代码写的很烂[MinecraftRush-Old版本开源工程](https://github.com/HRSmallRui/MinecraftRush-Old)
+
+这个项目的主要目的是为KR的社区做一些贡献，以及满足我自己的一个表达欲，以下是我在先前在某一个B站动态对这个项目的原话：
 
 >这个游戏等我更完主线会开源，所有的源代码和素材都会公开，到时候你们拿去改改版或者当模板做KR同人啥的都可以，只要别用作商业用途，署不署我的名我都不在意，以及最后可能还会做些视频教程来说明一下代码结构和我的写代码的思路（因为史山原因以及我自己并不是很强，所以仅供参考），以方便你们更好地使用工程文件（？）
 >
 >我还是很希望以后能看到KR能像pvz那样百花齐放的样子，以及看很多人经常分享自己的自创我也时常在想如果能做成游戏玩该多好，既然没人做，那我就先做
 
-[置顶动态链接](https://www.bilibili.com/opus/1082758291823526025?spm_id_from=333.1387.0.0)
+[原动态链接](https://www.bilibili.com/opus/1082758291823526025?spm_id_from=333.1387.0.0)
 
-目前这个游戏的进度还处于DEMO版阶段，等日后我会努力把这个做完
+目前这个游戏的进度已经阶段性完结了，虽然主线结束了但是还远远没有结束，后面还会有支线和拓展玩法的视线，待到日后又一阶段性结束之后我会再次回来更新……
 
 ---
 ### GalaxyWar
@@ -36,6 +43,10 @@
 
 这是视频链接，虽然没啥人看但当时我还是很兴奋的：[我的第一个游戏演示视频](https://www.bilibili.com/video/BV1pz42187Cp/?spm_id_from=333.1387.upload.video_card.click&vd_source=c449e037b4c487a04a4ac5cc6a096893)
 
+不过现在这个游戏之前用C#重制了一版，那次算是我第一次用godot-net配合C#和git管理工具进行游戏项目开发，其目的主要是为了验证想法可行性，测试godot的C#对我而言是否顺手：[GalaxyWar-Remake仓库链接](https://github.com/HRSmallRui/GalaxyWar-Remake-)
+
 ---
 ### RecordOfDeath
-灵感来源于一个叫死亡启示录的MC地图，这是我学UE的时候做的一个DEMO，不过当时因为编辑器出问题崩了导致整个项目都损毁了，说来也是比较遗憾qwq，主要玩法是在一个满是僵尸的沦陷城市内坚持生存5天直到获救，其中涉及食物寻找，枪支弹药武器的搜寻与和僵尸的正面对抗
+灵感来源于一个叫死亡启示录的MC地图，这是我学UE的时候做的一个DEMO，不过当时因为编辑器出问题崩了导致整个项目都损毁了，说来也是比较遗憾qwq，主要玩法是在一个满是僵尸的沦陷城市内坚持生存5天直到获救，其中涉及食物寻找，枪支弹药武器的搜寻与和僵尸的正面对抗，只要撑过5个白天黑夜就能胜利
+
+待到日后有机会重置一版吧，毕竟手头的美术素材文件都还在，只是苦了自己几个月的工程项目
