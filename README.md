@@ -24,7 +24,7 @@
 
 策略：小型快速 → GDS；长期协作 → C#。各司其职 🛠️
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HRSmallRui&layout=donut-vertical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HRSmallRui&layout=compact)
  
  ---
 
