@@ -15,16 +15,18 @@
 - Unity — 已弃坑，仅做了解
 - Unreal — 蓝图开发，C++ 学习中
 
+  <img src="https://skillicons.dev/icons?i=godot,unity,unreal" />
+
 **💻 语言：**
 - GDScript — 个人/小型项目主力
 - C# — 长期项目/团队合作主力（逐步提升占比）
 - Python — 辅助脚本
-- C++ — 语法入门，UE 实战未开始
+- C++ — 语法入门，UE 实战未开始，只做过一些简单练手项目
 - Java — 拼图小游戏水平
 
-策略：小型快速 → GDS；长期协作 → C#。各司其职 🛠️
+  <img src="https://skillicons.dev/icons?i=godot,cs,python,cpp,java" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HRSmallRui&layout=compact)
+策略：小型快速 → GDS；长期协作 → C#。各司其职 🛠️
  
  ---
 
